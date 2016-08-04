@@ -1,0 +1,39 @@
+_repo: Men-of-Iron_1557
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+description: "Men of Iron is an 1891 novel by the American author Howard Pyle, who\
+  \ also illustrated it. Set in the 15th century, it is a juvenile \"coming of age\"\
+  \ work in which a young squire, Myles Falworth, seeks not only to become a knight\
+  \ but to eventually redeem his father's honor. In Chapter 24 the knighthood ceremony\
+  \ is presented and described as it would be in a non-fiction work concerning knighthood\
+  \ and chivalry. Descriptions of training equipment are also given throughout.\n\
+  It comprises 68,334 words and is divided into 33 unnamed chapters, an introduction,\
+  \ and a conclusion. It was made into a movie in 1954, The Black Shield of Falworth.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2006-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1557'
+  wikidata: Q6816281
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Henry IV, 1399-1413 -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Great Britain -- History -- Medieval period, 1066-1485 -- Fiction'
+- !lcsh 'Knights and knighthood -- Fiction'
+- GITenberg
+title: Men of Iron
+url: http://www.gutenberg.org/ebooks/1557
+wikipedia:
+- https://en.wikipedia.org/wiki/Men_of_Iron
