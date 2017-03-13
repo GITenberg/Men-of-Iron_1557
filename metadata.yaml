@@ -1,5 +1,8 @@
 _repo: Men-of-Iron_1557
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pyle, Howard
@@ -17,6 +20,8 @@ description: "Men of Iron is an 1891 novel by the American author Howard Pyle, w
   It comprises 68,334 words and is divided into 33 unnamed chapters, an introduction,\
   \ and a conclusion. It was made into a movie in 1954, The Black Shield of Falworth.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1557#Men-of-Iron
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2006-02-15'
 gutenberg_type: Text
